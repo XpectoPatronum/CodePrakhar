@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @CodePrakhar.
-- 🌱 I’m currently learning Web Development.
 - 📫 How to reach me - prakhar.manitripathi.cd.mec20@itbhu.ac.in
 - 📷 I love Photography - https://bit.ly/3u4QKAl
 <!---
